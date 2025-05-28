@@ -1,5 +1,10 @@
 
-README for Pizza Sales SQL Project
+ Pizza Sales SQL Project
+
+## Click Here to see the Project
+
+[ Pizza Sales SQL Project](https://github.com/PaulSourav10/Pizza_sales_SQL/blob/main/Pizza_Sales%20%20SQL_project.pdf)
+
 
 Project Overview:
 The Pizza Sales SQL Project is designed to analyze the sales data of a hypothetical pizza chain using SQL. The project explores trends, patterns, and business insights to help optimize sales, inventory management, and customer satisfaction. The dataset includes details on orders, customers, pizza types, sizes, and toppings, allowing for comprehensive data analysis using SQL queries.

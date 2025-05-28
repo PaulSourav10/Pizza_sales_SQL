@@ -1,22 +1,21 @@
 
- Pizza Sales SQL Project
+ ## Pizza Sales SQL Project
 
-## Click Here to see the Project
 
 [ Pizza Sales SQL Project](https://github.com/PaulSourav10/Pizza_sales_SQL/blob/main/Pizza_Sales%20%20SQL_project.pdf)
 
 
-Project Overview:
+ ## Project Overview:
 The Pizza Sales SQL Project is designed to analyze the sales data of a hypothetical pizza chain using SQL. The project explores trends, patterns, and business insights to help optimize sales, inventory management, and customer satisfaction. The dataset includes details on orders, customers, pizza types, sizes, and toppings, allowing for comprehensive data analysis using SQL queries.
 
-Objectives:
+ ## Objectives:
 1. Data Exploration: Understand and query the structure of the dataset.
 2. Sales Performance Analysis: Identify the best-selling pizza types, sizes, and analyze sales based on time (day/hour).
 3. Customer Insights: Explore customer preferences and demographics.
 4. Inventory Management: Track pizza ingredient demand and stock levels.
 5. Revenue Insights: Understand sales trends, peak periods, and revenue contribution by pizza type.
 
-Key SQL Queries:
+ ## Key SQL Queries:
 - Identify the highest-priced pizza.
 - Determine the most common pizza size ordered.
 - List the top 5 most ordered pizza types along with their quantities.
@@ -27,13 +26,13 @@ Key SQL Queries:
 - Calculate the percentage contribution of each pizza type to total revenue.
 - Analyze cumulative revenue over time.
 
-Data Used:
+ ## Data Used:
 - Orders Table: Contains details about each order (order ID, customer ID, time, etc.).
 - Pizza Table: Lists all pizza types, sizes, and prices.
 - Customer Table: Includes customer demographics and information.
 - Toppings Table: Details about available toppings for each pizza.
 
-How to Run the Project:
+ ## How to Run the Project:
 1. Clone the repository:
    git clone <repository_url>
    cd pizza-sales-sql-project

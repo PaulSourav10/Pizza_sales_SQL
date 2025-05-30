@@ -1,54 +1,65 @@
+# 🍕 Pizza Sales SQL Project
 
- ## Pizza Sales SQL Project
+📄 [View the Full Project PDF](https://github.com/PaulSourav10/Pizza_sales_SQL/blob/main/Pizza_Sales%20%20SQL_project.pdf)
 
+## 📊 Project Overview
+The **Pizza Sales SQL Project** analyzes the sales data of a fictional pizza chain using SQL. The goal is to uncover trends, optimize inventory, and improve customer satisfaction through data-driven insights.
 
-[ Pizza Sales SQL Project](https://github.com/PaulSourav10/Pizza_sales_SQL/blob/main/Pizza_Sales%20%20SQL_project.pdf)
+The dataset includes:
+- Orders
+- Customers
+- Pizza types, sizes, and toppings
 
+This project uses SQL queries to answer real business questions.
 
- ## Project Overview:
-The Pizza Sales SQL Project is designed to analyze the sales data of a hypothetical pizza chain using SQL. The project explores trends, patterns, and business insights to help optimize sales, inventory management, and customer satisfaction. The dataset includes details on orders, customers, pizza types, sizes, and toppings, allowing for comprehensive data analysis using SQL queries.
+---
 
- ## Objectives:
-1. Data Exploration: Understand and query the structure of the dataset.
-2. Sales Performance Analysis: Identify the best-selling pizza types, sizes, and analyze sales based on time (day/hour).
-3. Customer Insights: Explore customer preferences and demographics.
-4. Inventory Management: Track pizza ingredient demand and stock levels.
-5. Revenue Insights: Understand sales trends, peak periods, and revenue contribution by pizza type.
+## 🎯 Objectives
 
- ## Key SQL Queries:
-- Identify the highest-priced pizza.
-- Determine the most common pizza size ordered.
-- List the top 5 most ordered pizza types along with their quantities.
-- Calculate the total quantity of each pizza category ordered by joining relevant tables.
-- Analyze the distribution of orders by hour.
-- Group orders by date to calculate the average number of pizzas ordered per day.
-- Identify the top 3 pizza types by revenue.
-- Calculate the percentage contribution of each pizza type to total revenue.
-- Analyze cumulative revenue over time.
+1. **Data Exploration** – Understand the structure of the database.
+2. **Sales Performance Analysis** – Identify best-selling pizza types, sizes, and sales by time (day/hour).
+3. **Customer Insights** – Discover customer preferences and behavior.
+4. **Inventory Management** – Monitor ingredient demand and stock needs.
+5. **Revenue Insights** – Analyze sales peaks and revenue contribution by pizza type.
 
- ## Data Used:
-- Orders Table: Contains details about each order (order ID, customer ID, time, etc.).
-- Pizza Table: Lists all pizza types, sizes, and prices.
-- Customer Table: Includes customer demographics and information.
-- Toppings Table: Details about available toppings for each pizza.
+---
 
- ## How to Run the Project:
-1. Clone the repository:
-   git clone <repository_url>
-   cd pizza-sales-sql-project
-   
-2. Database Setup:
-   - Use any SQL-compatible database system (e.g., MySQL, PostgreSQL).
-   - Import the dataset provided into your SQL environment.
-   
-3. Run SQL Queries:
-   - Navigate to the SQL scripts provided in the queries folder.
-   - Execute each script in your SQL environment to generate the required insights.
+## 🧠 Key SQL Queries Used
 
-4. Optional: You can use data visualization tools (like Tableau or Power BI) to further analyze and visualize the results.
+- Identify the **highest-priced pizza**
+- Determine the **most common pizza size** ordered
+- List the **top 5 most ordered pizza types** with quantities
+- Calculate total quantity by **pizza category** using joins
+- Analyze **hourly order distribution**
+- Group by date to calculate **average daily orders**
+- Identify **top 3 pizza types by revenue**
+- Calculate **percentage revenue contribution** by pizza type
+- Analyze **cumulative revenue trends**
 
-Tools & Technologies:
-- SQL for querying and data analysis.
-- DBMS: MySQL, PostgreSQL, or any compatible database management system.
-- Data Visualization (optional): Power BI or Tableau for graphical insights.
+---
+
+## 🗃️ Dataset Tables Used
+
+- **Orders Table** – Order ID, time, and customer info  
+- **Pizza Table** – Pizza types, sizes, and prices  
+- **Customer Table** – Demographic information  
+- **Toppings Table** – Toppings per pizza
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **SQL** (MySQL / PostgreSQL)
+- **DBMS**: Any compatible system
+- **(Optional)**: Power BI or Tableau for visualization
+
+---
+
+## 📌 Repository
+
+- 📂 [GitHub Repository](https://github.com/PaulSourav10/Pizza_sales_SQL)
+
+---
+
+> ⭐ _Feel free to fork the repo or open issues for discussion!_
 
